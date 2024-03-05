@@ -3,7 +3,7 @@
 
 Stores here is the Stop Watch web application developed via `HTML+CSS+JS` only.
 
-Click [here](https://ezharjan.github.io/chronoscope) to use this web application.
+Click [here](https://ezharjan.github.io/Chronoscope) to use this web application.
 
 
 <br>
